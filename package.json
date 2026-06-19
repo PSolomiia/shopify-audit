@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^19",
+    "@types/react": "^18",
     "@types/nodemailer": "^6.4.15",
     "typescript": "^5"
   }
